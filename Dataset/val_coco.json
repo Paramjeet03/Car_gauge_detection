@@ -1,0 +1,251 @@
+{
+    "images": [
+        {
+            "id": 33,
+            "file_name": "scraped_m9IQpB_1654870234264.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 41,
+            "file_name": "scraped_OXCoNs_1654867518262.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 25,
+            "file_name": "scraped_HoeZxB_1654869055407.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 5,
+            "file_name": "scraped_1NdmjE_1654867303557.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 48,
+            "file_name": "scraped_TaKTo7_1654869255352.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 46,
+            "file_name": "scraped_S3lFjM_1654871215134.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 1,
+            "file_name": "dc_odometer_mileage_WIJ7IVQZ1QYS4DJP.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 19,
+            "file_name": "scraped_EpB7Td_1654868060718.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 31,
+            "file_name": "scraped_lZLZtN_1654870754604.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 29,
+            "file_name": "scraped_lHa9f2_1654870765360.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 18,
+            "file_name": "scraped_Db8QuF_1654879694773.jpg",
+            "width": 640,
+            "height": 640
+        },
+        {
+            "id": 22,
+            "file_name": "scraped_FRO678_1654878783531.jpg",
+            "width": 640,
+            "height": 640
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                45.99,
+                293.81,
+                152.02,
+                131.58
+            ],
+            "area": 20001.78,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 3,
+            "bbox": [
+                287.43,
+                370.46,
+                70.26,
+                35.77
+            ],
+            "area": 2513.07,
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "category_id": 1,
+            "bbox": [
+                549.3,
+                355.13,
+                47.27,
+                44.71
+            ],
+            "area": 2113.27,
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "category_id": 1,
+            "bbox": [
+                427.94,
+                378.12,
+                77.92,
+                43.43
+            ],
+            "area": 3384.49,
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "category_id": 1,
+            "bbox": [
+                458.6,
+                328.3,
+                75.37,
+                52.38
+            ],
+            "area": 3947.48,
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "category_id": 1,
+            "bbox": [
+                412.61,
+                341.08,
+                75.37,
+                54.93
+            ],
+            "area": 4140.04,
+            "iscrowd": 0
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "category_id": 3,
+            "bbox": [
+                275.93,
+                353.85,
+                70.26,
+                31.94
+            ],
+            "area": 2243.82,
+            "iscrowd": 0
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "category_id": 3,
+            "bbox": [
+                235.05,
+                333.41,
+                251.66,
+                68.98
+            ],
+            "area": 17359.79,
+            "iscrowd": 0
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "category_id": 3,
+            "bbox": [
+                266.99,
+                416.45,
+                129.02,
+                22.99
+            ],
+            "area": 2966.73,
+            "iscrowd": 0
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "category_id": 3,
+            "bbox": [
+                247.82,
+                339.8,
+                154.57,
+                30.66
+            ],
+            "area": 4738.94,
+            "iscrowd": 0
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "category_id": 3,
+            "bbox": [
+                412.61,
+                291.26,
+                91.98,
+                42.16
+            ],
+            "area": 3877.31,
+            "iscrowd": 0
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "category_id": 3,
+            "bbox": [
+                302.75,
+                343.63,
+                72.81,
+                33.21
+            ],
+            "area": 2418.43,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Analog_Fuel_Guage",
+            "supercategory": "dashboard"
+        },
+        {
+            "id": 2,
+            "name": "Digital_Fuel_Guage",
+            "supercategory": "dashboard"
+        },
+        {
+            "id": 3,
+            "name": "Orange_Digital_Fuel_Guage",
+            "supercategory": "dashboard"
+        }
+    ]
+}
